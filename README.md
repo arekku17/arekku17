@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jose_alex170702@hotmail.com**
 
-- 📄 Know about my experiences:  **I start to code at 13 years old when I found C++ to create a videogame, then in the high school I joined in Programmation Course and I started to code seriously starting with Java and C++, now I'm taking various course of Javascript in Dev.F and Oracle Next Education**
+- 📄 Know about my experiences:  **I started to coding at 13 years old when I found C++ to create a videogame, then in the high school I joined in Programmation Course and I started to code seriously starting with Java and C++, now I'm taking various course of Javascript in Dev.F and Oracle Next Education**
 
 - ⚡ Hobbies **I adore edit videos and sell products of anime**
 
