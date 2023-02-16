@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently studying at **Instituto Tecnológico Superior de Champotón**
 
-- 🌱 I’m currently learning **Clouding, Angular, MongoDB**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React, Java, Javascript, MySQL, C++**
 
