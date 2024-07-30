@@ -5,6 +5,8 @@
 
 - 👨‍💻 I’m currently studying at **Instituto Tecnológico Superior de Champotón**
 
+- 💎 I’m currently working at **Axcess**
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React, Javascript, MongoDB, NodeJS, Java, Python, C++*
