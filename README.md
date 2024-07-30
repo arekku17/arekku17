@@ -5,15 +5,15 @@
 
 - 👨‍💻 I’m currently studying at **Instituto Tecnológico Superior de Champotón**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React, Java, Javascript, MySQL, C++**
+- 💬 Ask me about **React, Javascript, MongoDB, NodeJS, Java, Python, C++*
 
 - 📫 How to reach me **jose_alex170702@hotmail.com**
 
-- 📄 Know about my experiences:  **I started to coding at 13 years old when I found C++ to create a videogame, then in the high school I joined in Programmation Course and I started to code seriously starting with Java and C++, now I'm taking various course of Javascript in Dev.F and Oracle Next Education**
+- 📄 Know about my experiences:  **I started to coding at 13 years old when I found C++ to create a videogame, then in the high school I joined in Programmation Course and I started to code seriously starting with Java and C++, now Im working at Axcess as a Bubble Developer**
 
-- ⚡ Hobbies **I adore edit videos and sell products of anime**
+- ⚡ Hobbies **I enjoy edit videos and sell products of anime**
 
 <br>
 
